@@ -7,3 +7,7 @@ for i in range(10):
     while i > 1:
         print(i+1)
         print(i)
+
+for a in range(5):
+    while a < 10:
+        print(a)
