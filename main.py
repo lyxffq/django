@@ -6,3 +6,6 @@ for i in range(10):
     print(i)
     while i>1:
         print(i)
+
+
+print(123)
