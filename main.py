@@ -11,3 +11,9 @@ for i in range(10):
 for a in range(5):
     while a < 10:
         print(a)
+
+
+if (1 < 2 ):
+    a = 3
+else:
+    b = 4
