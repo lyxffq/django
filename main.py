@@ -19,3 +19,8 @@ else:
     b = 4
 
 print(2)
+
+q = 5
+d = 5
+if q == d:
+    print("True")
