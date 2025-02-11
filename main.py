@@ -13,7 +13,7 @@ for a in range(5):
         print(a)
 
 
-if (1 < 2 ):
+if (1 < 2):
     a = 3
 else:
     b = 4
